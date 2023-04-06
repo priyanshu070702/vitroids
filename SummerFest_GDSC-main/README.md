@@ -23,8 +23,8 @@
   <td align="center"><a href="https://github.com/007Ishan"><img alt="" src="https://avatars.githubusercontent.com/007Ishan" width="130px;"><br><sub><b>
    Promit Majumder</b></sub></a><br></td></a></td>
    
-   <td align="center"><a href="https://github.com/AgarwalMaddy"><img alt="" src="https://avatars.githubusercontent.com/AgarwalMaddy width="130px;"><br><sub><b>
-   Promit Majumder</b></sub></a><br></td></a></td>
+   <td align="center"><a href="https://github.com/AgarwalMaddy"><img alt="" src="https://avatars.githubusercontent.com/AgarwalMaddy" width="130px;"><br><sub><b>
+   Madhur Agarwal</b></sub></a><br></td></a></td>
 
 
   </tr>
